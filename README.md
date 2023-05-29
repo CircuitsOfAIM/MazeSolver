@@ -2,10 +2,10 @@
 author:
 - Ali-reza Iran-manesh Group 63
 date: 2023-05-29
-title: "**Maze Runner**"
+title: "Maze Runner"
 ---
 
-# Introduction {#sec:introduction}
+# Introduction
 
 Maze Runner is a simple maze puzzle game implemented in python using
 terminal interface.A player suppose to find a path from entrance to the
@@ -14,7 +14,7 @@ destination game ends.In this link you can find a game of the project
 uploaded on my personal Youtube account [(see my game
 preview)](https://youtu.be/eIO9C72n7Go).
 
-# Guide {#sec:guide}
+# Guide
 
 The game consists of two modes;\"single play\" and \"multi play\".
 
@@ -47,16 +47,5 @@ pressing \"e\" on keyboard.
 For using this software, you need python 3.9.13 on your machine.There
 are no other dependencies required.
 
-Warning : It may happen that for hard level based on screen size some
+###Warning : It may happen that for hard level based on screen size some
 issues occur regarding size of the maze.
-
-# Example
-
-On the figure [1](#fig:figure){reference-type="ref"
-reference="fig:figure"} you can see a player inside medium sized maze
-trying to find his way out.
-
-[Screenshot of a scene of a game in single play mode on medium
-level.\"A\" refers to the player and spaces are path and \"#\" are
-walls.]{#fig:figure .image .placeholder original-image-src="maze.png"
-original-image-title="fig:" width="0.8\\linewidth"}
