@@ -1,5 +1,6 @@
 
-# Maze Runner ![Local Image](./maze.png)
+# Maze Runner 
+![Local Image](./maze.png)
 ## Introduction
 
 Maze Runner is a simple maze puzzle game implemented in python using
