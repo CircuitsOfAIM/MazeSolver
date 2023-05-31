@@ -17,8 +17,7 @@ The game consists of two modes;\"single play\" and \"multi play\".
 At the beginning, user chooses game mode.Once the mode has chosen, user
 should define level of difficulty of the game.This is done by choosing a
 number between 0-2 which represents easy,medium and hard in respective.
-
-## Single Play
+#### Single Play
 
 The name of the user will be inserted.Now,the game has started. User
 should find his way out of the maze by starting from left bottom
@@ -26,8 +25,7 @@ position where user character ,denoted by his first name letter, located
 at entrance.Player moves through the maze using \"w\" \"s\",\"a\" or
 \"d\" letters to move up,down,left or right respectively and as it
 reaches the destination point at top right the game ends.
-
-## Multi Play
+#### Multi Play
 
 In this mode,Players input their names in order.Game starts by first
 player's turn.Player moves through the maze.As it reaches the end
@@ -37,11 +35,3 @@ the winner of the game.
 
 At any point of game regardless of mode, user can quit the game by
 pressing \"e\" on keyboard.
-
-## System Requirements
-
-For using this software, you need python 3.9.13 on your machine.There
-are no other dependencies required.
-
-Warning : It may happen that for hard level based on screen size some
-issues occur regarding size of the maze.
